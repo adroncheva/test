@@ -17,6 +17,7 @@
         <style>
             body {
                 font-family: 'Montserrat', sans-serif;
+                font-style: normal;
             }
         </style>
     </head>
